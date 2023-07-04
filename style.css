@@ -165,7 +165,7 @@ img {
 }
 
 .nav_logo {
-  color: var(--second-color);
+  color:#4070f4;
 }
 
 .nav_toggle {
@@ -498,7 +498,7 @@ img {
   
   .home_data {
     align-self: flex-end;
-    padding-top: 10rem;
+    padding-top: 3rem;
   }
   .home_social {
     padding-top: 0;
@@ -515,7 +515,7 @@ img {
   .home_img {
     width: 480px;
     bottom: 10%;
-    top: 13%;
+    top: 20%;
     border-radius: 30px;
   }
   
@@ -901,4 +901,3 @@ img {
   color: var(--light-color);
   margin-top: 2rem;
 }
-
